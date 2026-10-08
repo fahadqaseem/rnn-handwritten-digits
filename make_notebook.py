@@ -22,7 +22,7 @@ cells.append(nbf.v4.new_markdown_cell("""\
 **Dataset**: MNIST — handwritten digits (0–9)  
 **Framework**: PyTorch 2.7.1  
 **Device**: Apple MPS (Metal Performance Shaders)  
-**GitHub**: [github.com/fahadqaseem/rnn-handwritten-digits](https://github.com/fahadqaseem/rnn-handwritten-digits)
+**GitHub**: [github.com/fahadqaseem/rnn-handwritten-digits](https://github.com/fahadqaseem/rnn-handwritten-digits)  
 
 ---
 
