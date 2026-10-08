@@ -296,3 +296,4 @@ with open(README, encoding="utf-8") as f:
 render(pdf, lines)
 pdf.output(OUT)
 print(f"PDF written: {OUT}  ({os.path.getsize(OUT):,} bytes)")
+
